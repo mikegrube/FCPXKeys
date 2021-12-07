@@ -1,0 +1,344 @@
+Action,Area,Command,Shortcut,Key,Cmd,Sh,Opt,Ctl
+Mirror the display of the connected VR headset in the 360° viewer,Playback/Navigation,Mirror VR Headset,Control-Option-Command-9,9,1,0,1,1
+Pan the 360° viewer to the left,Playback/Navigation,Look Left,Control-Option-Command-Left Arrow,left,1,0,1,1
+Pan the 360° viewer to the right,Playback/Navigation,Look Right,Control-Option-Command-Right Arrow,right,1,0,1,1
+Pan the 360° viewer up,Playback/Navigation,Look Up,Control-Option-Command-Up Arrow,Up arrow,1,0,1,1
+"Replace the selected captions with abutting single-line captions, one for each line of text in the original captions.",Editing,Split Caption,Control-Option-Command-C,C,1,0,1,1
+Roll the 360° viewer clockwise,Playback/Navigation,Look Clockwise,Control-Option-Command-Right Bracket,],1,0,1,1
+Roll the 360° viewer counterclockwise,Playback/Navigation,Look Counterclockwise,Control-Option-Command-Left Bracket,[,1,0,1,1
+Send 360° video to the connected VR headset,Playback/Navigation,Output to VR Headset,Control-Option-Command-7,7,1,0,1,1
+Switch to the Anaglyph Monochrome view in the 360° viewer (stereoscopic only),Windows,Anaglyph Monochrome,Control-Option-Command-4,4,1,0,1,1
+Switch to the Anaglyph Outline view in the 360° viewer (stereoscopic only),Windows,Anaglyph Outline,Control-Option-Command-5,5,1,0,1,1
+Switch to the Anaglyph view in the 360° viewer (stereoscopic only),Windows,Anaglyph,Control-Option-Command-3,3,1,0,1,1
+Switch to the Difference view in the 360° viewer (stereoscopic only),Windows,Difference,Control-Option-Command-6,6,1,0,1,1
+Switch to the Left Eye view in the 360° viewer (stereoscopic only),Windows,Left,Control-Option-Command-1,1,1,0,1,1
+Switch to the Right Eye view in the 360° viewer (stereoscopic only),Windows,Right,Control-Option-Command-2,2,1,0,1,1
+Switch to the Superimpose view in the 360° viewer (stereoscopic only),Windows,Superimpose,Control-Option-Command-Grave Accent (`),`,1,0,1,1
+Tilt the 360° viewer down,Playback/Navigation,Look Down,Control-Option-Command-Down Arrow,down,1,0,1,1
+Adjust the audio volume across all selected clips to a specific dB value,Editing,Adjust Volume Absolute,Control-Option-L,L,0,0,1,1
+Apply Dialogue subroles to the selected clip’s components,Marking,Roles: Apply Dialogue Role,Control-Option-D,D,0,0,1,1
+Apply Effects subroles to the selected clip’s components,Marking,Roles: Apply Effects Role,Control-Option-E,E,0,0,1,1
+Apply Music subroles to the selected clip’s components,Marking,Roles: Apply Music Role,Control-Option-M,M,0,0,1,1
+Apply the Titles role to the selected clip,Marking,Roles: Apply Titles Role,Control-Option-T,T,0,0,1,1
+Apply the Video role to the selected clip,Marking,Roles: Apply Video Role,Control-Option-V,V,0,0,1,1
+Decrease the size of audio waveforms for timeline clips,View,Clip Appearance: Decrease Waveform Size,Control-Option-Down Arrow,down,0,0,1,1
+"Depending on the clip name setting, display timeline clips with clip names, role names, or active angle names only",View,Clip Appearance: Clip Labels Only,Control-Option-6,6,0,0,1,1
+Display timeline clips with audio waveforms and video filmstrips of equal size,View,Clip Appearance: Waveforms and Filmstrips,Control-Option-3,3,0,0,1,1
+Display timeline clips with large audio waveforms and small filmstrips,View,Clip Appearance: Large Waveforms,Control-Option-2,2,0,0,1,1
+Display timeline clips with large audio waveforms only,View,Clip Appearance: Waveforms Only,Control-Option-1,1,0,0,1,1
+Display timeline clips with large filmstrips only,View,Clip Appearance: Filmstrips Only,Control-Option-5,5,0,0,1,1
+Display timeline clips with small audio waveforms and large filmstrips,View,Clip Appearance: Large Filmstrips,Control-Option-4,4,0,0,1,1
+Expand or collapse audio components for the selection in the timeline,Editing,Expand/Collapse Audio Components,Control-Option-S,S,0,0,1,1
+Increase the size of audio waveforms for timeline clips,View,Clip Appearance: Increase Waveform Size,Control-Option-Up Arrow,up,0,0,1,1
+Show or hide the Cinematic Editor for the selected timeline clips,View,Cinematic Editor,Control-Option-F,F,0,0,1,1
+"In the timeline, add the next item to the selection",Editing,Extend Selection to Next Clip,Control-Command-Right-Arrow,right,1,1,0,1
+Add the selected clip to the audition,Editing,Audition: Add to Audition,Control-Shift-Y,Y,0,1,0,1
+Connect a basic lower-third title to the primary storyline,Effects,Add Basic Lower Third,Control-Shift-T,T,0,1,0,1
+Connect the default lower third to the primary storyline,Editing,Connect Default Lower Third,Control-Shift-T,T,0,1,0,1
+Delete all of the markers in the selection,Marking,Delete Markers in Selection,Control-Shift-M,M,0,1,0,1
+Go to the previous pane in the inspector or the Color Board,Windows,Previous Tab,Control-Shift-Tab,tab,0,1,0,1
+Make the Cinematic tool active and display onscreen controls for the selected clip or the topmost clip under the playhead,Share/Tools,Cinematic Tool,Control-Shift-F,F,0,1,0,1
+Open the selected caption in the caption editor,Marking,Edit Caption,Control-Shift-C,C,0,1,0,1
+Play from the playhead to the end of the selection,Playback/Navigation,Play to End,Control-Shift-O,O,0,1,0,1
+Show one effect at a time in the Video Animation editor,Effects,Solo Animation,Control-Shift-V,V,0,1,0,1
+Start all rendering tasks for the current project,General,Render All,Control-Shift-R,R,0,1,0,1
+Switch to the next angle in the multicam clip,Editing,Select Next Angle,Control-Shift-Right Arrow,right,0,1,0,1
+Switch to the previous angle in the multicam clip,Editing,Previous Angle,Control-Shift-Left Arrow,left,0,1,0,1
+Go to the next item (in the browser) or the next edit point (in the timeline),Playback/Navigation,Next Clip,Control-Command-Right Arrow,right,1,0,0,1
+Go to the previous item (in the browser) or the previous edit point (in the timeline),Playback/Navigation,Previous Clip,Control-Command-Left Arrow,left,1,0,0,1
+Open the Library Properties inspector for the current library,General,Library Properties,Control-Command-J,J,1,0,0,1
+Play the pick in context in the timeline,Playback/Navigation,Audition: Preview,Control-Command-Y,Y,1,0,0,1
+Show or hide the browser,Windows,Show/Hide Browser,Control-Command-1,1,1,0,0,1
+Show or hide the comparison viewer,Windows,Show/Hide Comparison Viewer,Control-Command-6,6,1,0,0,1
+Show or hide the event viewer,Windows,Show/Hide Event Viewer,Control-Command-3,3,1,0,0,1
+Show or hide the timeline,Windows,Show/Hide Timeline,Control-Command-2,2,1,0,0,1
+Show or hide the Transitions browser,Windows,Show/Hide Transitions Browser,Control-Command-5,5,1,0,0,1
+Show the vectorscope in the viewer,Windows,Show Vectorscope,Control-Command-V,V,1,0,0,1
+Show the waveform monitor in the viewer,Windows,Show Video Waveform,Control-Command-W,W,1,0,0,1
+Switch between the half-height view and full-height view in the inspector,Windows,Toggle Inspector Height,Control-Command-4,4,1,0,0,1
+Switch to the Color pane in the Color Board,Effects,Color Board: Switch to the Color Pane,Control-Command-C,C,1,0,0,1
+Switch to the Exposure pane in the Color Board,Effects,Color Board: Switch to the Exposure Pane,Control-Command-E,E,1,0,0,1
+Switch to the Saturation pane in the Color Board,Effects,Color Board: Switch to the Saturation Pane,Control-Command-S,S,1,0,0,1
+Adjust the audio volume across all selected clips by the same dB value,Editing,Adjust Volume Relative,Control-L,L,0,0,0,1
+Apply keyword 1 to the selection,Marking,Apply Keyword Tag 1,Control-1,1,0,0,0,1
+Apply keyword 2 to the selection,Marking,Apply Keyword Tag 2,Control-2,2,0,0,0,1
+Apply keyword 3 to the selection,Marking,Apply Keyword Tag 3,Control-3,3,0,0,0,1
+Apply keyword 4 to the selection,Marking,Apply Keyword Tag 4,Control-4,4,0,0,0,1
+Apply keyword 5 to the selection,Marking,Apply Keyword Tag 5,Control-5,5,0,0,0,1
+Apply keyword 6 to the selection,Marking,Apply Keyword Tag 6,Control-6,6,0,0,0,1
+Apply keyword 7 to the selection,Marking,Apply Keyword Tag 7,Control-7,7,0,0,0,1
+Apply keyword 8 to the selection,Marking,Apply Keyword Tag 8,Control-8,8,0,0,0,1
+Apply keyword 9 to the selection,Marking,Apply Keyword Tag 9,Control-9,9,0,0,0,1
+Change the browser filter settings to hide rejected clips,Marking,Hide Rejected,Control-H,H,0,0,0,1
+Change the browser filter settings to show all clips,Marking,All Clips,Control-C,C,0,0,0,1
+Change the browser filter settings to show favorites,Marking,Favorites,Control-F,F,0,0,0,1
+Change the browser filter settings to show rejected clips,Marking,Rejected,Control-Delete,delete,0,0,0,1
+Change the duration of the selection,Editing,Change Duration,Control-D,D,0,0,0,1
+Connect a basic title to the primary storyline,Effects,Add Basic Title,Control-T,T,0,0,0,1
+Connect the default title to the primary storyline,Editing,Connect Default Title,Control-T,T,0,0,0,1
+Delete the selected marker,Marking,Delete Marker,Control-M,M,0,0,0,1
+"For audio/video clips in expanded view, select the left and right edges of the video edit point",Editing,Select Left and Right Video Edit Edges,Control-Backslash (\),\,0,0,0,1
+"For audio/video clips in expanded view, select the left edge of the video edit point",Editing,Select Left Video Edge,Control-Left Bracket ([),[,0,0,0,1
+"For audio/video clips in expanded view, select the right edge of the video edit point",Editing,Select Right Video Edge,Control-Right Bracket (]),],0,0,0,1
+Go to the next pane in the inspector or the Color Board,Windows,Next Tab,Control-Tab,tab,0,0,0,1
+Lower the audio volume by 1 dB,Editing,Lower Volume 1 dB,Control-Hyphen (-),-,0,0,0,1
+Move the playhead by entering a timecode value,Editing,Move Playhead Position,Control-P,P,0,0,0,1
+Move the playhead to the next marker,Playback/Navigation,Next Marker,Control-Apostrophe (’),‘,0,0,0,1
+Move the playhead to the previous marker,Playback/Navigation,Previous Marker,Control-Semicolon (;),;,0,0,0,1
+Play in reverse while editing a text field (press J multiple times to increase the reverse playback speed),Playback/Navigation,Play Reverse,Control-J,J,0,0,0,1
+Raise the audio volume by 1 dB,Editing,Raise Volume 1 dB,Control-Equal Sign (=),=,0,0,0,1
+Remove all keywords from the browser selection,Marking,Remove All Keywords From Selection,Control-0,0,0,0,0,1
+"Select the next clip in the Audition window, making it the audition pick",Editing,Select Next Pick,Control-Right Arrow,right,0,0,0,1
+"Select the previous clip in the Audition window, making it the audition pick",Editing,Previous Pick,Control-Left Arrow,left,0,0,0,1
+Set the end point for the range while editing a text field,Marking,Set Range End,Control-O,O,0,0,0,1
+Set the start point for the range while editing a text field,Marking,Set Range Start,Control-I,I,0,0,0,1
+Show or hide clip information when skimming in the browser,View,Show/Hide Skimmer Info,Control-Y,Y,0,0,0,1
+Show or hide the Audio Animation editor for the selected clips or components,View,Show/Hide Audio Animation,Control-A,A,0,0,0,1
+Show or hide the Video Animation editor for the selected timeline clips,View,Show/Hide Video Animation,Control-V,V,0,0,0,1
+Start or pause playback while editing a text field,Playback/Navigation,Play/Pause,Control-Space bar,space,0,0,0,1
+Start rendering tasks for the selection,General,Render Selection,Control-R,R,0,0,0,1
+Stop playback while editing a text field,Playback/Navigation,Stop,Control-K,K,0,0,0,1
+Turn zooming in to audio samples on or off,View,Zoom to Samples,Control-Z,Z,0,0,0,1
+View audio and video separately for selected clips,Editing,Expand Audio,Control-S,S,0,0,0,1
+"When an edit point is selected, show or hide the precision editor",Editing,Show/Hide Precision Editor,Control-E,E,0,0,0,1
+"While editing a text field, go to the next item (in the browser) or the next edit point (in the timeline)",Playback/Navigation,Down,Control-Down Arrow,down,0,0,0,1
+"While editing a text field, go to the previous item (in the browser) or the previous edit point (in the timeline)",Playback/Navigation,Up,Control-Up Arrow,up,0,0,0,1
+Move the playhead to the next focus point,Playback/Navigation,Go to Next Focus Point,Option-Shift-Command-Right Arrow,right,1,1,1,0
+Move the playhead to the previous focus point,Playback/Navigation,Go to Previous Focus Point,Option-Shift-Command-Left Arrow,left,1,1,1,0
+Reveal the open project in the browser,,Reveal Project in Browser,Option-Shift-Command-F,F,1,1,1,0
+Show one frame per filmstrip,View,Show One Frame per Filmstrip,"Option-Shift-Command-Comma (,)",",",1,1,1,0
+Copy the selected keyframes and their settings,Effects,Copy Keyframes,Option-Shift-C,C,0,1,1,0
+Cut the selected keyframes and their settings,Effects,Cut Keyframes,Option-Shift-X,X,0,1,1,0
+Display the next bank of angles in the current multicam clip,Playback/Navigation,Go to Next Bank,Option-Shift-Apostrophe (’),‘,0,1,1,0
+Display the previous bank of angles in the current multicam clip,Playback/Navigation,Go to Previous Bank,Option-Shift-Semicolon (;),;,0,1,1,0
+Dissolve the audition and replace it with the audition pick,Editing,Finalize Audition,Option-Shift-Y,Y,0,1,1,0
+Navigate to the previous text item,Effects,Previous Text,Option-Shift-Tab,tab,0,1,1,0
+"Nudge the selected audio edit point left by 10 subframes, creating a split edit",Editing,Nudge Audio Subframe Left Many,"Option-Shift-Comma (,)",",",0,1,1,0
+"Nudge the selected audio edit point right by 10 subframes, creating a split edit",Editing,Nudge Audio Subframe Right Many,Option-Shift-Period (.),.,0,1,1,0
+Paste keyframes and their settings to the selection,Effects,Paste Keyframes,Option-Shift-V,V,0,1,1,0
+Show or hide clip names in the browser,View,View Clip Names,Option-Shift-N,N,0,1,1,0
+Start or stop recording audio from the Record Voiceover window,Playback/Navigation,Start/Stop Voiceover Recording,Option-Shift-A,A,0,1,1,0
+Switch to the next audio angle in the multicam clip,Editing,Select Next Audio Angle,Option-Shift-Right Arrow,right,0,1,1,0
+Switch to the previous audio angle in the multicam clip,Editing,Previous Audio Angle,Option-Shift-Left Arrow,left,0,1,1,0
+Turn on audio-only mode for multicam cutting and switching,Playback/Navigation,Cut/Switch Multicam Audio Only,Option-Shift-3,3,0,1,1,0
+Turn on audio/video mode for multicam cutting and switching,Playback/Navigation,Cut/Switch Multicam Audio and Video,Option-Shift-1,1,0,1,1,0
+Turn on video-only mode for multicam cutting and switching,Playback/Navigation,Cut/Switch Multicam Video Only,Option-Shift-2,2,0,1,1,0
+Add the default audio effect to the selection,Effects,Add Default Audio Effect,Option-Command-E,E,1,0,1,0
+Copy the selected effects and their settings,Effects,Copy Effects,Option-Command-C,C,1,0,1,0
+Create a new Smart Collection,Marking,New Smart Collection,Option-Command-N,N,1,0,1,0
+Delete the selection and attach the connected clip or clips to the resulting gap clip,Editing,Delete Selection Only,Option-Command-Delete,delete,1,0,1,0
+Hide all applications except Final Cut Pro,Application,Hide Other Applications,Option-Command-H,H,1,0,1,0
+Insert the default generator at the skimmer or playhead position,Editing,Insert Default Generator,Option-Command-W,W,1,0,1,0
+Lift the selection from the storyline and connect it to the resulting gap clips,Editing,Lift from Storyline,Option-Command-Up Arrow,up,1,0,1,0
+Make the current inspector active,Windows,Go to Inspector,Option-Command-4,4,1,0,1,0
+Make the event viewer active,General,Go to Event Viewer,Option-Command-3,3,1,0,1,0
+Match color between clips,Effects,Match Color,Option-Command-M,M,1,0,1,0
+Open the Command Editor,Application,Keyboard Customization,Option-Command-K,K,1,0,1,0
+Overwrite at the skimmer or playhead position in the primary storyline,Editing,Overwrite to Primary Storyline,Option-Command-Down Arrow,down,1,0,1,0
+Paste effects and their settings to the selection,Effects,Paste Effects,Option-Command-V,V,1,0,1,0
+Remove all effects from the selection,Effects,Remove Effects,Option-Command-X,X,1,0,1,0
+Reset the selection to play forward at normal (100 percent) speed,Effects,Retime: Reset,Option-Command-R,R,1,0,1,0
+Show or hide the 360° viewer,Windows,Show/Hide 360° Viewer,Option-Command-7,7,1,0,1,0
+Show or hide the Record Voiceover window,Windows,Record Voiceover,Option-Command-8,8,1,0,1,0
+Show or hide the Titles and Generators sidebar,Windows,Show/Hide Titles and Generators Sidebar,Option-Command-1,1,1,0,1,0
+Switch the browser between filmstrip view and list view,View,Toggle Filmstrip/List View,Option-Command-2,2,1,0,1,0
+Turn Balance Color corrections on or off,Effects,Enable/Disable Balance Color,Option-Command-B,B,1,0,1,0
+Turn clip skimming on or off,Playback/Navigation,Clip Skimming,Option-Command-S,S,1,0,1,0
+Switch the multicam clip to angle 9 of the current bank,Editing,Switch to Viewer Angle 9,Option-9,9,0,0,1,0
+Add a caption to the active language subrole at the playhead location,Marking,Add Caption,Option-C (or Control-Option-C if the caption editor is open),C,0,0,1,0
+Add a marker and edit the marker’s text,Marking,Add Marker and Modify,Option-M,M,0,0,1,0
+Add the default video effect to the selection,Effects,Add Default Video Effect,Option-E,E,0,0,1,0
+Apply a crossfade to the audio edit point between the selected clips,Effects,Crossfade,Option-T,T,0,0,1,0
+Clear the range selection,Marking,Clear Selected Ranges,Option-X,X,0,0,1,0
+Clear the range’s end point,Marking,Clear Range End,Option-O,O,0,0,1,0
+Clear the range’s start point,Marking,Clear Range Start,Option-I,I,0,0,1,0
+"Create a new compound clip (if there’s no selection, create an empty compound clip)",Editing,New Compound Clip,Option-G,G,0,0,1,0
+Create a new event,Organization,New Event,Option-N,N,0,0,1,0
+"Create an audition with a timeline clip and a duplicate version of the clip, including applied effects",Editing,Audition: Duplicate as Audition,Option-Y,Y,0,0,1,0
+"Insert a freeze frame at the playhead or skimmer location in the timeline, or connect a freeze frame from the skimmer or playhead location in the event to the playhead location in the timeline",Editing,Insert/Connect Freeze Frame,Option-F,F,0,0,1,0
+Insert a gap clip at the skimmer or playhead position,Editing,Insert Gap,Option-W,W,0,0,1,0
+Make the Distort tool active and display onscreen controls for the selected clip or the topmost clip under the playhead,Share/Tools,Distort Tool,Option-D,D,0,0,1,0
+Move the playhead to the next audio subframe,Playback/Navigation,Go to Next Subframe,Option-Right Arrow,right,0,0,1,0
+Move the playhead to the next field in an interlaced clip,Playback/Navigation,Go to Next Field,Option-Right Arrow,right,0,0,1,0
+Move the playhead to the previous audio subframe,Playback/Navigation,Go to Previous Subframe,Option-Left Arrow,left,0,0,1,0
+Move the playhead to the previous field in an interlaced clip,Playback/Navigation,Go to Previous Field,Option-Left Arrow,left,0,0,1,0
+Navigate to the next text item,Effects,Next Text,Option-Tab,tab,0,0,1,0
+Nudge down the value of the selected keyframe in the animation editor,Editing,Nudge Down,Option-Down Arrow,down,0,0,1,0
+"Nudge the selected audio edit point left by one subframe, creating a split edit",Editing,Nudge Audio Subframe Left,"Option-Comma (,)",",",0,0,1,0
+"Nudge the selected audio edit point right by one subframe, creating a split edit",Editing,Nudge Audio Subframe Right,Option-Period (.),.,0,0,1,0
+Nudge up the value of the selected keyframe in the animation editor,Editing,Nudge Up,Option-Up Arrow,up,0,0,1,0
+Paste the selection and connect it to the primary storyline,Editing,Paste as Connected,Option-V,V,0,0,1,0
+Play from the playhead position,Playback/Navigation,Play from Playhead,Option-Space bar,space,0,0,1,0
+"Replace the selected clip in the timeline with the browser selection, starting from its start point",Editing,Replace from Start,Option-R,R,0,0,1,0
+Reset the controls in the current Color Board pane,Effects,Color Board: Reset Current Board Controls,Option-Delete,delete,0,0,1,0
+Solo the selected items in the timeline,Editing,Solo,Option-S,S,0,0,1,0
+Switch the multicam clip to angle 1 of the current bank,Editing,Switch to Viewer Angle 1,Option-1,1,0,0,1,0
+Switch the multicam clip to angle 2 of the current bank,Editing,Switch to Viewer Angle 2,Option-2,2,0,0,1,0
+Switch the multicam clip to angle 3 of the current bank,Editing,Switch to Viewer Angle 3,Option-3,3,0,0,1,0
+Switch the multicam clip to angle 4 of the current bank,Editing,Switch to Viewer Angle 4,Option-4,4,0,0,1,0
+Switch the multicam clip to angle 5 of the current bank,Editing,Switch to Viewer Angle 5,Option-5,5,0,0,1,0
+Switch the multicam clip to angle 6 of the current bank,Editing,Switch to Viewer Angle 6,Option-6,6,0,0,1,0
+Switch the multicam clip to angle 7 of the current bank,Editing,Switch to Viewer Angle 7,Option-7,7,0,0,1,0
+Switch the multicam clip to angle 8 of the current bank,Editing,Switch to Viewer Angle 8,Option-8,8,0,0,1,0
+Sync the selected event clips,,Synchronize Clips,Option-Command-G,G,0,0,1,0
+Trim clip start and end points to the range selection,Editing,Trim to Selection,Option-Backslash (\),\,0,0,1,0
+Trim the clip start point to the skimmer or playhead position,Editing,Trim Start,Option-Left Bracket ([),[,0,0,1,0
+Trim the end of the selected or topmost clip to the skimmer or playhead position,Editing,Trim End,Option-Right Bracket (]),],0,0,1,0
+Break the selected item into its component parts,Editing,Break Apart Clip Items,Shift-Command-G,G,1,1,0,0
+Create a new folder,,New Folder,Shift-Command-N,N,1,1,0,0
+Create a new Keyword Collection,Marking,New Keyword Collection,Shift-Command-K,K,1,1,0,0
+Cut all clips at the skimmer or playhead location,Editing,Blade All,Shift-Command-B,B,1,1,0,0
+Decrease the browser clip height,View,Decrease Clip Height,Shift-Command-Hyphen (-),-,1,1,0,0
+Deselect all selected items,Editing,Deselect All,Shift-Command-A,A,1,1,0,0
+Deselect all selected items,Marking,Deselect All,Shift-Command-A,A,1,1,0,0
+Duplicate the selected audition clip without applied effects,Editing,Audition: Duplicate from Original,Shift-Command-Y,Y,1,1,0,0
+Increase the browser clip height,View,Increase Clip Height,Shift-Command-Equal Sign (=),=,1,1,0,0
+Match the sound between clips,Effects,Match Audio,Shift-Command-M,M,1,1,0,0
+Paste selected attributes and their settings to the selection,Effects,Paste Attributes,Shift-Command-V,V,1,1,0,0
+Play full screen from the skimmer or playhead position,Playback/Navigation,Play Full Screen,Shift-Command-F,F,1,1,0,0
+Redo the last command,Application,Redo Change,Shift-Command-Z,Z,1,1,0,0
+Remove selected attributes from the selection,Effects,Remove Attributes,Shift-Command-X,X,1,1,0,0
+Reveal the selected event clip’s source media file in the Finder,General,Reveal in Finder,Shift-Command-R,R,1,1,0,0
+Set an additional range selection end point at the playhead or skimmer location,Marking,Set Additional Range End,Shift-Command-O,O,1,1,0,0
+Set an additional range selection end point at the playhead or skimmer location,Editing,Set Additional Selection End,Shift-Command-O,O,1,1,0,0
+Set an additional range selection start point at the playhead or skimmer location,Marking,Set Additional Range Start,Shift-Command-I,I,1,1,0,0
+Show fewer filmstrip frames in browser clips,View,Show Fewer Filmstrip Frames,"Shift-Command-Comma (,)",", (comm)",1,1,0,0
+Show more filmstrip frames in browser clips,View,Show More Filmstrip Frames,Shift-Command-Period (.),.,1,1,0,0
+Show or hide the angle viewer,Windows,Show/Hide Angles,Shift-Command-7,7,1,1,0,0
+Show or hide the audio meters,Windows,Show/Hide Audio Meters,Shift-Command-8,8,1,1,0,0
+Show or hide the Photos and Audio sidebar,Windows,Show/Hide Photos and Audio Sidebar,Shift-Command-1,1,1,1,0,0
+Show or hide the timeline index for the open project,Windows,Show/Hide Timeline Index,Shift-Command-2,2,1,1,0,0
+Switch to the next video angle in the multicam clip,Editing,Select Next Video Angle,Shift-Command-Right Arrow,right,1,1,0,0
+Switch to the previous video angle in the multicam clip,Editing,Previous Video Angle,Shift-Command-Left Arrow,left,1,1,0,0
+"Connect the selection to the primary storyline, aligning the selection’s end point with the skimmer or playhead",Editing,Connect to Primary Storyline - Backtimed,Shift-Q,Q,0,1,0,0
+Create a 2-second hold segment,Effects,Retime: Hold,Shift-H,H,0,1,0,0
+Create an audition and replace the timeline clip with the current selection,Editing,Audition: Replace and Add to Audition,Shift-Y,Y,0,1,0,0
+Extend the selected edit point to the skimmer or playhead position,Editing,Extend Edit,Shift-X,X,0,1,0,0
+"For audio/video clips in expanded view, select the left and right edges of the audio edit point",Editing,Select Left and Right Audio Edit Edges,Shift-Backslash (\),\,0,1,0,0
+"For audio/video clips in expanded view, select the left edge of the audio edit point",Editing,Select Left Audio Edge,Shift-Left Bracket ([),[,0,1,0,0
+"For audio/video clips in expanded view, select the right edge of the audio edit point",Editing,Select Right Audio Edge,Shift-Right Bracket (]),],0,1,0,0
+"In the browser list view, add the next item to the selection",Editing,Extend Selection Down,Shift-Down Arrow,down,0,1,0,0
+"In the browser list view, add the previous item to the selection",Editing,Extend Selection Up,Shift-Up Arrow,up,0,1,0,0
+Make the Crop tool active and display onscreen controls for the selected clip or the topmost clip under the playhead,Share/Tools,Crop Tool,Shift-C,C,0,1,0,0
+Make the Transform tool active and display onscreen controls for the selected clip or the topmost clip under the playhead,Share/Tools,Transform Tool,Shift-T,T,0,1,0,0
+Move the playhead back 10 frames,Playback/Navigation,Go Back 10 Frames,Shift-Left Arrow,left,0,1,0,0
+Move the playhead forward 10 frames,Playback/Navigation,Go Forward 10 Frames,Shift-Right Arrow,right,0,1,0,0
+Move the playhead to the beginning of the range selection,Playback/Navigation,Go to Range Start,Shift-I,I,0,1,0,0
+Move the playhead to the end of the range selection,Playback/Navigation,Go to Range End,Shift-O,O,0,1,0,0
+Nudge the selection 10 units to the left,Editing,Nudge Left Many,"Shift-Comma (,)",",",0,1,0,0
+Nudge the selection 10 units to the right,Editing,Nudge Right Many,Shift-Period (.),.,0,1,0,0
+Overwrite from the skimmer or playhead position back,Editing,Overwrite - Backtimed,Shift-D,D,0,1,0,0
+Play around the playhead position,Playback/Navigation,Play Around,Shift-Question Mark (?),?,0,1,0,0
+Play in reverse,Playback/Navigation,Play Reverse,Shift-Space bar,space,0,1,0,0
+Replace the selected clip in the timeline with the browser selection,Editing,Replace,Shift-R,R,0,1,0,0
+Replace the selected timeline clip with a gap clip,Editing,Replace with Gap,Shift-Delete,delete,0,1,0,0
+Reveal the selected clip in the browser,,Reveal in Browser,Shift-F,F,0,1,0,0
+Set an additional range selection start point at the playhead or skimmer location,Editing,Set Additional Selection Start,Shift-Command-I,I,0,1,0,0
+Set the angle being skimmed as the monitoring angle,Playback/Navigation,Set Monitoring Angle,Shift-V,V,0,1,0,0
+Set the selection to play at normal (100 percent) speed,Effects,Retime: Create Normal Speed Segment,Shift-N,N,0,1,0,0
+Turn audio skimming on or off,Playback/Navigation,Audio Skimming,Shift-S,S,0,1,0,0
+Turn on audio-only mode to add the audio portion of your selection to the timeline,Editing,Source Media: Audio Only,Shift-3,3,0,1,0,0
+Turn on audio/video mode to add the video and audio portion of your selection to the timeline,Editing,Source Media: Audio & Video,Shift-1,1,0,1,0,0
+Turn on or turn off audio monitoring for the angle being skimmed,Playback/Navigation,Monitor Audio,Shift-A,A,0,1,0,0
+Turn on video-only mode to add the video portion of your selection to the timeline,Editing,Source Media: Video Only,Shift-2,2,0,1,0,0
+"Zoom the contents to fit the size of the browser, viewer, or timeline",View,Zoom to Fit,Shift-Z,Z,0,1,0,0
+Add the default transition to the selection,Effects,Add Default Transition,Command-T,T,1,0,0,0
+Copy the selection,Editing,Copy,Command-C,C,1,0,0,0
+Create a new project,General,New Project,Command-N,N,1,0,0,0
+Create a storyline from a selection of connected clips,Editing,Create Storyline,Command-G,G,1,0,0,0
+Create an audition from the selection,Editing,Create Audition,Command-Y,Y,1,0,0,0
+Cut the primary storyline clip (or the selection) at the skimmer or playhead location,Editing,Blade,Command-B,B,1,0,0,0
+Cut the selection,Editing,Cut,Command-X,X,1,0,0,0
+Duplicate the browser selection,Editing,Duplicate,Command-D,D,1,0,0,0
+Go back one level in the timeline history,Playback/Navigation,Timeline History Back,Command-Left Bracket ([),[,1,0,0,0
+Go forward one level in the timeline history,Playback/Navigation,Timeline History Forward,Command-Right Bracket (]),],1,0,0,0
+Hide Final Cut Pro,Application,Hide Application,Command-H,H,1,0,0,0
+"Import media from a device, a camera, or an archive",General,Import Media,Command-I,I,1,0,0,0
+Insert the Clipboard contents at the skimmer or playhead position,Editing,Paste Insert at Playhead,Command-V,V,1,0,0,0
+Make the Audio Enhancements inspector active,Windows,Go to Audio Enhancements,Command-8,8,1,0,0,0
+Make the browser active,Windows,Go to Browser,Command-1,1,1,0,0,0
+Make the Color Board active,Windows,Go to Color Board,Command-6,6,1,0,0,0
+Make the timeline active,Windows,Go to Timeline,Command-2,2,1,0,0,0
+Make the viewer active,Windows,Go to Viewer,Command-3,3,1,0,0,0
+Minimize Final Cut Pro,Application,Minimize,Command-M,M,1,0,0,0
+Move the playhead and the selection to the next topmost timeline clip in the same role,Editing,Select Next Clip,Command-Right Arrow,right,1,0,0,0
+Move the playhead and the selection to the previous topmost timeline clip in the same role,Editing,Select Previous Clip,Command-Left Arrow,left,1,0,0,0
+Move the selection to the Finder Trash,General,Move to Trash,Command-Delete,delete,1,0,0,0
+Open an existing library or a new library,Application,Open Library,Command-O,O,1,0,0,0
+Open the Final Cut Pro Preferences window,Application,Preferences,"Command-Comma (,)",",",1,0,0,0
+Open the Properties inspector for the current project,General,Project Properties,Command-J,J,1,0,0,0
+Quit Final Cut Pro,Application,Quit,Command-Q,Q,1,0,0,0
+Select all clips,Editing,Select All,Command-A,A,1,0,0,0
+Select the clip above the current timeline selection at the skimmer or playhead location,Editing,Select Clip Above,Command-Up Arrow,up,1,0,0,0
+Select the clip below the current timeline selection at the skimmer or playhead location,Editing,Select Clip Below,Command-Down Arrow,down,1,0,0,0
+Share the selected project or clip using the default destination,Share/Tools,Share to Default Destination,Command-E,E,1,0,0,0
+Show or hide the Background Tasks window,Windows,Background Tasks,Command-9,9,1,0,0,0
+Show or hide the Effects browser,Windows,Show/Hide Effects Browser,Command-5,5,1,0,0,0
+Show or hide the Filter window (in the browser) or the timeline index (in the timeline),General,Find,Command-F,F,1,0,0,0
+Show or hide the inspector,Windows,Show/Hide Inspector,Command-4,4,1,0,0,0
+Show or hide the keyword editor,Windows,Show/Hide Keyword Editor,Command-K,K,1,0,0,0
+Show or hide the Libraries sidebar,Windows,Show/Hide Libraries Sidebar,Command-1,1,1,0,0,0
+Show or hide the retime editor,Effects,Retime Editor,Command-R,R,1,0,0,0
+Show or hide the sidebar,Windows,Show/Hide Sidebar,Command-Grave Accent (`),`,1,0,0,0
+Show or hide the video scopes in the viewer,Windows,Show/Hide Video Scopes,Command-7,7,1,0,0,0
+Turn looped playback on or off,Playback/Navigation,Loop Playback,Command-L,L,1,0,0,0
+Undo the last command,Application,Undo Change,Command-Z,Z,1,0,0,0
+"Zoom in to the browser, viewer, or timeline",View,Zoom In,Command-Plus Sign (+),+,1,0,0,0
+"Zoom out of the browser, viewer, or timeline",View,Zoom Out,Command-Minus Sign (–),-,1,0,0,0
+Add a marker at the location of the skimmer or playhead,Marking,Add Marker,M,M,0,0,0,0
+Add the selection to the end of the storyline,Editing,Append to Storyline,E,E,0,0,0,0
+Connect the selection to the primary storyline,Editing,Connect to Primary Storyline,Q,Q,0,0,0,0
+Cut and switch the multicam clip to angle 1 of the current bank,Editing,Cut and Switch to Viewer Angle 1,1,1,0,0,0,0
+Cut and switch the multicam clip to angle 2 of the current bank,Editing,Cut and Switch to Viewer Angle 2,2,2,0,0,0,0
+Cut and switch the multicam clip to angle 3 of the current bank,Editing,Cut and Switch to Viewer Angle 3,3,3,0,0,0,0
+Cut and switch the multicam clip to angle 4 of the current bank,Editing,Cut and Switch to Viewer Angle 4,4,4,0,0,0,0
+Cut and switch the multicam clip to angle 5 of the current bank,Editing,Cut and Switch to Viewer Angle 5,5,5,0,0,0,0
+Cut and switch the multicam clip to angle 6 of the current bank,Editing,Cut and Switch to Viewer Angle 6,6,6,0,0,0,0
+Cut and switch the multicam clip to angle 7 of the current bank,Editing,Cut and Switch to Viewer Angle 7,7,7,0,0,0,0
+Cut and switch the multicam clip to angle 8 of the current bank,Editing,Cut and Switch to Viewer Angle 8,8,8,0,0,0,0
+Cut and switch the multicam clip to angle 9 of the current bank,Editing,Cut and Switch to Viewer Angle 9,9,9,0,0,0,0
+"Delete the timeline selection, reject the browser selection, or remove a through edit",Editing,Delete,Delete,delete,0,0,0,0
+"Delete the timeline selection, reject the browser selection, or remove a through edit",General,Delete,Delete,delete,0,0,0,0
+Enable or disable playback for the selection,Editing,Enable/Disable Clip,V,V,0,0,0,0
+"Enter a negative timecode value to move the playhead back, move a clip earlier, or trim a range or clip, depending on your selection",Playback/Navigation,Negative Timecode Entry,Hyphen (-),-,0,0,0,0
+"Enter a positive timecode value to move the playhead forward, move a clip later, or trim a range or clip, depending on your selection",Playback/Navigation,Positive Timecode Entry,Equal Sign (=),=,0,0,0,0
+Go to the next item (in the browser) or the next edit point (in the timeline),Playback/Navigation,Down,Down Arrow,down,0,0,0,0
+Go to the previous item (in the browser) or the previous edit point (in the timeline),Playback/Navigation,Up,Up Arrow,up,0,0,0,0
+Insert the selection at the skimmer or playhead position,Editing,Insert,W,W,0,0,0,0
+Make the Blade tool active,Share/Tools,Blade Tool,B,B,0,0,0,0
+Make the Hand tool active,Share/Tools,Hand Tool,H,H,0,0,0,0
+Make the Position tool active,Share/Tools,Position Tool,P,P,0,0,0,0
+Make the Range Selection tool active,Marking,Range Selection Tool,R,R,0,0,0,0
+Make the Select tool active,Share/Tools,Select (Arrow) Tool,A,A,0,0,0,0
+Make the Trim tool active,Share/Tools,Trim Tool,T,T,0,0,0,0
+Make the Zoom tool active,Share/Tools,Zoom Tool,Z,Z,0,0,0,0
+"Mark the current selection in the browser as rejected
+Note: The Delete key removes selected items if the timeline is active instead of the browser.",Marking,Reject,Delete,delete,0,0,0,0
+Move the playhead to the beginning of the timeline or the first clip in the browser,Playback/Navigation,Go to Beginning,Home key (or Fn-Left Arrow),home,0,0,0,0
+Move the playhead to the end of the timeline or to the last clip in the browser,Playback/Navigation,Go to End,End key (or Fn-Right Arrow),end,0,0,0,0
+Move the playhead to the next edit point in the timeline,Playback/Navigation,Go to Next Edit,Apostrophe (’),‘,0,0,0,0
+Move the playhead to the next frame,Playback/Navigation,Go to Next Frame,Right Arrow,right,0,0,0,0
+Move the playhead to the previous edit point in the timeline,Playback/Navigation,Go to Previous Edit,Semicolon (;),;,0,0,0,0
+Move the playhead to the previous frame,Playback/Navigation,Go to Previous Frame,Left Arrow,left,0,0,0,0
+Nudge the selection one unit to the left,Editing,Nudge Left,"Comma (,)",",",0,0,0,0
+Nudge the selection one unit to the right,Editing,Nudge Right,Period (.),.,0,0,0,0
+Open the selected audition,Editing,Open Audition,Y,Y,0,0,0,0
+Overwrite at the skimmer or playhead position,Editing,Overwrite,D,D,0,0,0,0
+Play forward (press L multiple times to increase the playback speed),Playback/Navigation,Play Forward,L,L,0,0,0,0
+Play in reverse (press J multiple times to increase the reverse playback speed),Playback/Navigation,Play Reverse,J,J,0,0,0,0
+Play the selection,Playback/Navigation,Play Selection,Slash (/),/,0,0,0,0
+Rate the browser selection as favorite,Marking,Favorite,F,F,0,0,0,0
+Remove ratings from the selection,Marking,Unrate,U,U,0,0,0,0
+Select the clip under the pointer in the timeline,Editing,Select Clip,C,C,0,0,0,0
+Select the left and right edges of the edit point,Editing,Select Left and Right Edit Edges,Backslash (\),\,0,0,0,0
+Select the left edge of the edit point,Editing,Select Left Edge,Left Bracket ([),[,0,0,0,0
+Select the right edge of the edit point,Editing,Select Right Edge,Right Bracket (]),],0,0,0,0
+Set the end point for the range,Marking,Set Range End,O,O,0,0,0,0
+Set the range selection to match the boundaries of the clip below the skimmer or playhead,Marking,Select Clip Range,X,X,0,0,0,0
+Set the start point for the range,Marking,Set Range Start,I,I,0,0,0,0
+Start or pause playback,Playback/Navigation,Play/Pause,Space bar,space,0,0,0,0
+Stop playback,Playback/Navigation,Stop,K,K,0,0,0,0
+Temporarily override clip connections for the selection,Editing,Override Connections,Grave Accent (`),`,0,0,0,0
+Turn on or turn off the ability to build storylines when dragging clips in the timeline,Editing,Toggle Storyline Mode,G,G,0,0,0,0
+Turn skimming on or off,Playback/Navigation,Skimming,S,S,0,0,0,0
+Turn snapping on or off,Editing,Snapping,N,N,0,0,0,0
